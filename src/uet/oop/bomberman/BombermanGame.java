@@ -86,7 +86,7 @@ public class BombermanGame extends Application {
 
         // Them scene vao stage
         stage.setScene(scene);
-        stage.setTitle("Bomberman_Group_68");
+        stage.setTitle("Bomberman_AK47");
         Image icon = new Image("/sprites/bomberman_icon.png");
         stage.getIcons().add(icon);
         stage.show();
